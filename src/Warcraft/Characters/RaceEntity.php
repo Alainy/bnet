@@ -144,6 +144,7 @@ class RaceEntity extends AbstractEntity
             'mask' => 536870912,
             'side' => 'alliance',
             'name' => 'Lightforged Draenei'
+        ]
     ];
 
     public static function fromId($raceId)
