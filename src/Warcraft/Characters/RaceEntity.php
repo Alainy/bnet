@@ -144,6 +144,18 @@ class RaceEntity extends AbstractEntity
             'mask' => 536870912,
             'side' => 'alliance',
             'name' => 'Lightforged Draenei'
+        ],
+        34 => [
+            'id' => 34,
+            'mask' => 2,
+            'side' => 'alliance',
+            'name' => 'Dark Iron Dwarf'
+        ],
+        36 => [
+            'id' => 36,
+            'mask' => 8,
+            'side' => 'horde',
+            'name' => "Mag'har Orc"
         ]
     ];
 
